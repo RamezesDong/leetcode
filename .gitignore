@@ -1,4 +1,6 @@
 *
+!/contest/
+!/contest/**/
 !/luogu/
 !/luogu/**/
 !*.cpp
