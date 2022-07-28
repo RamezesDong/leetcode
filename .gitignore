@@ -6,4 +6,7 @@
 !*.cpp
 !*.java
 !*.h
-
+!/codeforces/
+!/codeforces/**/
+!/atcoder/
+!/atcoder/**/
